@@ -1,7 +1,7 @@
 
 # SMPM - Sistema de Manutenção Preventiva de Máquinas
 
-# Stack
+# FullStack
 - Vue 3, Vite
 - Tailwind CSS
 - Pinia (estado)
